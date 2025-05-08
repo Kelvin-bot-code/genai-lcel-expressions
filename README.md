@@ -27,7 +27,7 @@ Combine prompt, model, and parser into a single LangChain expression and test it
 
 ### PROGRAM:
 
-```
+```py
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from langchain.chat_models import ChatOpenAI
